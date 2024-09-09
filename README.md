@@ -10,7 +10,7 @@ About Me:-
 📚 I’m currently enrolled in CS50 by HarvardX and Algorithms, Part I by Princeton University, constantly expanding my knowledge in computer science and algorithms.
 👯 I’m looking to collaborate on exciting open-source projects related to AI, Web3, or full-stack development.
 💬 Ask me about JavaScript, React, Node.js, MongoDB, Web3, or AI integration.
-📫 How to reach me: youremail@example.com.
+📫 How to reach me: Muhadhk1999@gmail.com.
 ⚡ Fun fact: I love reading tech articles, traveling, and learning about cutting-edge technologies!
 
 Skills:-
