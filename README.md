@@ -24,6 +24,6 @@ Portfolio:-
 https://abdul-muhad-portfolio.netlify.app
 
 Connect with Me:-
-LinkedIn :- www.linkedin.com/in/abdul-muhad
+www.linkedin.com/in/abdulmuhad
 
 
