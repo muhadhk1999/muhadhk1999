@@ -21,9 +21,9 @@ Tools: Docker, Git, MongoDB, Kubernetes, Nginx
 Cloud: AWS, Render, Heroku
 
 Portfolio:-
-https://fastidious-hummingbird-87cebb.netlify.app/
+https://abdul-muhad-portfolio.netlify.app
 
 Connect with Me:-
-LinkedIn :- www.linkedin.com/in/abdul-muhad-71b670217
+LinkedIn :- www.linkedin.com/in/abdul-muhad
 
 
